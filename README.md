@@ -9,10 +9,13 @@ My name is Kamesh and I have recently graduated from UC Irvine with a degree in 
 
 Here is some information about myself:
 
-- 🎁 I am currently working on GiveThanksNow.org, a website that my friend and I made to send messages of gratitude to the countless frontline workers out there helping us fight against the global COVID-19 pandemic.
-- 👨‍💻 I have previously worked as a Software Engineering Intern at Netskope (full-stack) and Edifecs (backend).
-- 🏆 I’ve been to and won at 30+ hackathons! I primarily built web apps and even helped direct UCI’s hackathon for 4 years, HackUCI which hosts 500+ students annually.
-- 💾 I am well versed in several popular programming languages like Python, Java, and C++ along with libraries like ReactJS and Flask.
+- 🎁 Co-Founder of [`www.givethanksnow.org`](https://www.givethanksnow.org/)
+- 🐜 Previous Director @ HackUCI (UC Irvine)
+- 👨‍💻 Previous Software Engineering Intern at Netskope (full-stack) and Edifecs (backend).
+- 🏆 Been to and won at 30+ hackathons!
+- 💬 Let's chat about photography, travel, tech and video games!
 
 - 📫 How to reach me: kvedula [at] uci.edu
+
+Website: [`www.kameshvedula.com`](https://www.kameshvedula.com/)
 
