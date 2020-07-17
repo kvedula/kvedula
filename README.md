@@ -15,7 +15,8 @@ Here is some information about myself:
 - 🏆 Been to and won at 30+ hackathons!
 - 💬 Let's chat about photography, travel, tech and video games!
 
-- 📫 How to reach me: kvedula [at] uci.edu
 
-Website: [`www.kameshvedula.com`](https://www.kameshvedula.com/)
+📫 Email: kvedula [at] uci.edu
+
+🖥 Website: [`www.kameshvedula.com`](https://www.kameshvedula.com/)
 
