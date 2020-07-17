@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Kamesh and I have recently graduated from UC Irvine with a degree in Computer Science. I am currently looking for full-time Software Engineering opportunities!
+My name is Kamesh and I have recently graduated from UC Irvine with a degree in Computer Science. I am currently looking for full-time Software Engineering opportunities! Unfortunately, I had an offer rescinded due to the COVID-19 pandemic.
 
 Here is some information about myself:
 
