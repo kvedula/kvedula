@@ -13,7 +13,7 @@ Here is some information about myself:
 - 🐜 Previous Director @ HackUCI (UC Irvine)
 - 👨‍💻 Previous Software Engineering Intern at Netskope (full-stack) and Edifecs (backend).
 - 🏆 Been to and won at 30+ hackathons!
-- 🧩 Working on [`LeetCode Problems`](https://github.com/kvedula/leetcode) Daily
+- 🧩 Working on [`LeetCode Problems`](https://github.com/kvedula/leetcode).
 - 💬 Let's chat about photography, travel, tech and video games!
 
 
