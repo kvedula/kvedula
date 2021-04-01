@@ -13,7 +13,7 @@ Here is some information about myself:
 - 🛩 Training to get my Private Pilot License
 - 🎁 Co-Founder of [`www.givethanksnow.org`](https://www.givethanksnow.org/)
 - 🐜 Previous Director @ HackUCI (UC Irvine)
-- 👨‍💻 Previous Contractor @ Cisco, Software Engineering Intern @ Netskope (full-stack) & Edifecs (backend).
+- 👨‍💻 Previous Contractor @ Cisco, Software Engineering Intern @ Netskope (full-stack) & Edifecs (backend)
 - 🏆 Been to and won at 30+ hackathons!
 - 💬 Let's chat about photography, travel, flying, tech and video games!
 
