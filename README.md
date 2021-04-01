@@ -10,7 +10,7 @@ My name is Kamesh and I have recently graduated from UC Irvine with a degree in 
 Here is some information about myself:
 
 - 📦 SDE 1 @ Amazon on the AMS Classification & Policy Platform Team
-- 🛩 Training to get my Private Pilot License.
+- 🛩 Training to get my Private Pilot License
 - 🎁 Co-Founder of [`www.givethanksnow.org`](https://www.givethanksnow.org/)
 - 🐜 Previous Director @ HackUCI (UC Irvine)
 - 👨‍💻 Previous Contractor @ Cisco, Software Engineering Intern @ Netskope (full-stack) & Edifecs (backend).
