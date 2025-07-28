@@ -9,7 +9,7 @@ My name is Kamesh, UC Irvine Alum, and current NYC Transplant working on making 
 
 Here is some information about myself:
 
-- 🐤 Techincal Product Manager @ Redbird.io
+- 🐤 Founding Senior FDE @ Rippling
 - 🚀 Ex Scale, 📦 Ex Amazon
 - 🛩 Private Pilot License Holder
 - 🎁 Co-Founder of [`www.givethanksnow.org`](https://www.givethanksnow.org/)
